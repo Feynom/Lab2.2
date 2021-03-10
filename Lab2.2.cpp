@@ -34,5 +34,7 @@ int main()
     else
         cout << "Dots are equal" << endl;
 
+
+    cout << "\nSize of class is equal to " << sizeof(Point);
     return 0;
 }

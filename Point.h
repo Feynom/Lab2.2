@@ -3,6 +3,8 @@
 #include <string>
 #include <sstream>
 
+#pragma pack(1)
+
 using namespace std;
 
 class Point
